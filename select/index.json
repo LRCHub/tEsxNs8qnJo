@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "カトラリー",
+  "base_artist": "朝比奈まふゆ",
+  "createdAt": "2025-12-10T06:40:14.177557Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カトラリー",
+      "artist": "Ewe",
+      "has_synced": true,
+      "path": "select/01_カトラリー_Ewe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カトラリー (self cover)",
+      "artist": "有機酸",
+      "has_synced": true,
+      "path": "select/02_カトラリー_(self_cover)_有機酸.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カトラリー",
+      "artist": "しゅーず",
+      "has_synced": true,
+      "path": "select/03_カトラリー_しゅーず.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カトラリー",
+      "artist": "有機酸 feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_カトラリー_有機酸_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カトラリー (self cover)",
+      "artist": "ewe",
+      "has_synced": true,
+      "path": "select/05_カトラリー_(self_cover)_ewe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カトラリー",
+      "artist": "+α",
+      "has_synced": true,
+      "path": "select/06_カトラリー_+α.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カトラリー",
+      "artist": "有機酸",
+      "has_synced": true,
+      "path": "select/07_カトラリー_有機酸.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カトラリー",
+      "artist": "朝比奈まふゆ",
+      "has_synced": false,
+      "path": "select/pl_01_カトラリー_朝比奈まふゆ.txt"
+    }
+  ]
+}
